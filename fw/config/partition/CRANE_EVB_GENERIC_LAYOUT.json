@@ -1,0 +1,120 @@
+{
+  "name": "CRANE_EVB_GENERIC_LAYOUT",
+  "partitions": [{
+      "name": "bootloader",
+      "format": "ubi",
+      "size": "144KiB"
+    },
+    {
+      "name": "system",
+      "format": "part",
+      "size": "0",
+      "partitions": [{
+          "name": "ptable",
+          "format": "raw",
+          "size": "4KiB"
+        },
+        {
+          "name": "fwcerts",
+          "format": "raw",
+          "size": "12KiB"
+        },
+        {
+          "name": "rd",
+          "format": "raw",
+          "size": "64KiB"
+        },
+        {
+          "name": "apn",
+          "format": "raw",
+          "size": "32KiB"
+        },
+        {
+          "name": "cp",
+          "format": "raw",
+          "size": "0"
+        },
+        {
+          "name": "dsp",
+          "format": "raw",
+          "size": "0"
+        },
+        {
+          "name": "rfbin",
+          "format": "raw",
+          "size": "0"
+        },
+		{
+	      "name": "logo",
+	      "format": "raw",
+	      "size": "200KiB"
+	    },
+		{
+	      "name": "customer_app",
+	      "format": "raw",
+	      "size": "300KiB"
+	    }
+      ]
+    },
+    {
+      "name": "reserved",
+      "format": "raw",
+      "size": "-1"
+    },
+    {
+      "name": "backup_restore_info",
+      "format": "raw",
+      "size": "4KiB"
+    },
+    {
+      "name": "fota_param",
+      "format": "raw",
+      "size": "12KiB"
+    },
+    {
+      "name": "updater",
+      "format": "raw",
+      "size": "32KiB"
+    },
+    {
+      "name": "fota_pkg",
+      "format": "raw",
+      "size": "2MiB"
+    },
+    {
+      "name": "customer_fs",
+      "format": "raw",
+      "size": "1MiB"
+    },
+    {
+      "name": "customer_backup_fs",
+      "format": "raw",
+      "size": "1MiB"
+    },
+    {
+      "name": "nvm",
+      "format": "raw",
+      "size": "1MiB"
+    },
+	{
+      "name": "erase_rd",
+      "format": "raw",
+      "size": "64KiB"
+    },
+	{
+      "name": "quec_cfg",
+      "format": "raw",
+      "size": "32KiB"
+    },
+    {
+      "name": "factory_a",
+      "format": "raw",
+      "size": "64KiB"
+    },
+    {
+      "name": "factory_b",
+      "format": "raw",
+      "size": "64KiB"
+    }
+  ]
+}

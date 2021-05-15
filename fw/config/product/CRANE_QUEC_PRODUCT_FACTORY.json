@@ -1,0 +1,37 @@
+{
+  "name": "CRANE_QUEC_PRODUCT_FACTORY",
+  "version": "0.5",
+  "version-bootrom": "2019.01.15",
+  "template": "CRANE_QUEC_TEMPLATE_FACTORY",
+  "flash": "QSPI_NOR_16MB_B64KB_S4KB_P256",
+  "partitions": "CRANE_QUEC_LAYOUT_FACTORY",
+  "keyAlg": "rsa",
+  "hashAlg": "sha256",
+  "secureBoot": false,
+  "fota": [
+    "system"
+  ],
+  "variants": [
+    {
+      "name": "QUEC_FACTORY_A0_08MB",
+      "flash": "QSPI_NOR_8MB_B64KB_S4KB_P256",
+      "partitions": [
+        {
+          "name": "nvm",
+          "size": "1MiB"
+        }
+      ]
+    },
+    {
+      "name": "QUEC_FACTORY_A0_16MB"
+    },
+    {
+      "name": "QUEC_FACTORY_A0_32MB",
+      "flash": "QSPI_NOR_32MB_B64KB_S4KB_P256"
+    },
+    {
+      "name": "QUEC_FACTORY_CRANEG_16MB",
+      "version-bootrom": "2019.10.10"
+    }
+  ]
+}

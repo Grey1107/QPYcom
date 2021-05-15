@@ -1,0 +1,132 @@
+{
+  "name": "CRANE_QUEC_LAYOUT_FACTORY",
+  "partitions": [{
+      "name": "bootloader",
+      "format": "ubi",
+      "size": "144KiB"
+    },
+    {
+      "name": "system",
+      "format": "part",
+      "size": "0",
+      "partitions": [{
+          "name": "ptable",
+          "format": "raw",
+          "size": "4KiB"
+        },
+        {
+          "name": "fwcerts",
+          "format": "raw",
+          "size": "12KiB"
+        }
+      ]
+    },
+    {
+      "name": "business",
+      "format": "part",
+      "size": "0",
+      "partitions": [{
+	  "name": "cp",
+	  "format": "raw",
+	  "size": "6144KiB"
+	},
+	{
+	  "name": "dsp",
+	  "format": "raw",
+	  "size": "1232KiB"
+	},
+	{
+	  "name": "cpbackup",
+	  "format": "raw",
+	  "size": "6144KiB"
+	},
+	{
+	  "name": "dspbackup",
+	  "format": "raw",
+	  "size": "1232KiB"
+	},
+	{
+	  "name": "bsimageinfo",
+	  "format": "raw",
+	  "size": "4KiB"
+	},
+	{
+	  "name": "bsimageinfobackup",
+	  "format": "raw",
+	  "size": "4KiB"
+	},
+	{
+	  "name": "fotainfo",
+	  "format": "raw",
+	  "size": "4KiB"
+	}
+    ]
+    },
+    {
+      "name": "config",
+      "format": "part",
+      "size": "0",
+      "partitions": [{
+          "name": "rd",
+          "format": "raw",
+          "size": "64KiB"
+	},
+	{
+          "name": "rfbin",
+          "format": "raw",
+          "size": "32KiB"
+	},
+	{
+          "name": "rdbackup",
+          "format": "raw",
+          "size": "64KiB"
+	},
+	{
+          "name": "rfbinbackup",
+          "format": "raw",
+          "size": "32KiB"
+	},
+	{
+          "name": "queccfg",
+          "format": "raw",
+          "size": "4KiB"
+	},
+	{
+          "name": "quecdata",
+          "format": "raw",
+          "size": "32KiB"
+	},
+	{
+          "name": "quecdatabackup",
+          "format": "raw",
+          "size": "32KiB"
+	},
+	{
+          "name": "vsim",
+          "format": "raw",
+          "size": "96KiB"
+	}
+    ]
+    },
+    {
+      "name": "factory_a",
+      "format": "raw",
+      "size": "32KiB"
+    },
+    {
+      "name": "factory_b",
+      "format": "raw",
+      "size": "32KiB"
+    },
+    {
+      "name": "reserved",
+      "format": "raw",
+      "size": "-1"
+    },
+    {
+      "name": "nvm",
+      "format": "raw",
+      "size": "1MiB"
+    }
+  ]
+}

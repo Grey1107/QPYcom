@@ -1,0 +1,285 @@
+{
+	"totalcount": 28,
+	"filelist": [{
+			"file": "images.zip",
+			"md5": "6d037c008c2739551e395a75d7a672d3",
+			"ver": "1.4",
+			"updatemode":0,
+			"opera": "download",
+			"url":"http://qpy.quectel.com/qpytools/images.zip",
+			"updatedesp":"图片文件更新包下载",
+			"restart": 0,
+			"path": "{}\\images.zip"
+		},{
+			"file": "images.zip",
+			"md5": "6d037c008c2739551e395a75d7a672d3",
+			"ver": "1.4",
+			"updatemode": 0,
+			"opera": "decompress",
+			"url":"http://qpy.quectel.com/qpytools/images.zip",
+			"updatedesp":"图片文件更新包解压",
+			"restart": 0,
+			"path": "{}\\images.zip"
+		},{
+			"file": "images.zip",
+			"md5": "6d037c008c2739551e395a75d7a672d3",
+			"ver": "1.4",
+			"updatemode": 0,
+			"opera": "delete",
+			"url":"http://qpy.quectel.com/qpytools/images.zip",
+			"updatedesp":"图片文件更新包删除",
+			"restart": 0,
+			"path": "{}\\images.zip"
+		},{
+			"file": "config.ini",
+			"md5": "6df8df6d1b454bf69fc874b9e48bcdd0",
+			"ver": "1.4",
+			"updatemode": 0,
+			"opera": "override",
+			"url":"http://qpy.quectel.com/qpytools/config.ini",
+			"updatedesp":"配置文件更新",
+			"restart": 0,
+			"path": "{}\\config.ini"
+		},{
+			"file": "exes.zip",
+			"md5": "6f6a96b6d927361c398afd824a8e6ae7",
+			"ver": "1.1.5",
+			"updatemode": 0,
+			"opera": "download",
+			"url":"http://qpy.quectel.com/qpytools/exes.zip",
+			"updatedesp":"exes文件包下载",
+			"restart": 0,
+			"path": "{}\\exes.zip"
+		},{
+			"file": "exes.zip",
+			"md5": "6f6a96b6d927361c398afd824a8e6ae7",
+			"ver": "1.1.5",
+			"updatemode": 0,
+			"opera": "decompress",
+			"url":"http://qpy.quectel.com/qpytools/exes.zip",
+			"updatedesp":"exes文件包解压",
+			"restart": 0,
+			"path": "{}\\exes.zip"
+		},{
+			"file": "exes.zip",
+			"md5": "6f6a96b6d927361c398afd824a8e6ae7",
+			"ver": "1.1.5",
+			"updatemode": 0,
+			"opera": "delete",
+			"url":"http://qpy.quectel.com/qpytools/exes.zip",
+			"updatedesp":"exes文件包删除",
+			"restart": 0,
+			"path": "{}\\exes.zip"
+		},{
+			"file": "main_program.zip",
+			"md5": "c41b0e994309b1e638506248f4167208",
+			"ver": "1.4",
+			"updatemode": 3,
+			"opera": "download",
+			"url":"http://qpy.quectel.com/qpytools/main_program.zip",
+			"updatedesp":"主程序文件包下载",
+			"restart": 1,
+			"path": "{}\\temp\\main_program.zip"
+		},{
+			"file": "main_program.zip",
+			"md5": "c41b0e994309b1e638506248f4167208",
+			"ver": "1.4",
+			"updatemode": 3,
+			"opera": "decompress",
+			"url":"http://qpy.quectel.com/qpytools/main_program.zip",
+			"updatedesp":"主程序文件包解压",
+			"restart": 1,
+			"path": "{}\\temp\\main_program.zip"
+		},{
+			"file": "main_program.zip",
+			"md5": "c41b0e994309b1e638506248f4167208",
+			"ver": "1.4",
+			"updatemode": 3,
+			"opera": "delete",
+			"url":"http://qpy.quectel.com/qpytools/main_program.zip",
+			"updatedesp":"主程序文件包删除",
+			"restart": 1,
+			"path": "{}\\temp\\main_program.zip"
+		},{
+			"file": "restart.bat",
+			"md5": "fc9ba1daf5bdf020bc009cce4522c569",
+			"ver": "1.4",
+			"updatemode": 3,
+			"opera": "download",
+			"url":"http://qpy.quectel.com/qpytools/restart.bat",
+			"updatedesp":"主程序重启脚本文件",
+			"restart": 1,
+			"path": "{}\\restart.bat"
+		},{
+			"file": "fw.zip",
+			"md5": "7f86776ffe06e2b1e8efea2e4ec35993",
+			"ver": "1.0.1",
+			"updatemode": 0,
+			"opera": "download",
+			"url":"http://qpy.quectel.com/qpytools/fw.zip",
+			"updatedesp":"fw文件包下载",
+			"restart": 0,
+			"path": "{}\\fw.zip"
+		},{
+			"file": "fw.zip",
+			"md5": "7f86776ffe06e2b1e8efea2e4ec35993",
+			"ver": "1.0.1",
+			"updatemode": 0,
+			"opera": "decompress",
+			"url":"http://qpy.quectel.com/qpytools/fw.zip",
+			"updatedesp":"fw文件包解压",
+			"restart": 0,
+			"path": "{}\\fw.zip"
+		},{
+			"file": "fw.zip",
+			"md5": "7f86776ffe06e2b1e8efea2e4ec35993",
+			"ver": "1.0.1",
+			"updatemode": 0,
+			"opera": "delete",
+			"url":"http://qpy.quectel.com/qpytools/fw.zip",
+			"updatedesp":"fw文件包删除",
+			"restart": 0,
+			"path": "{}\\fw.zip"
+		},{
+			"file": "fw_config.json",
+			"md5": "d5486e51e502e2658302fb46d29c2b4c",
+			"ver": "1.3",
+			"updatemode": 0,
+			"opera": "override",
+			"url":"http://qpy.quectel.com/qpytools/fw_config.json",
+			"updatedesp":"配置文件更新",
+			"restart": 0,
+			"path": "{}\\fw_config.json"
+		},{
+			"file": "locale.zip",
+			"md5": "d01c579ae0b99780b1ddfc670b1fcfc2",
+			"ver": "1.3",
+			"updatemode":0,
+			"opera": "download",
+			"url":"http://qpy.quectel.com/qpytools/locale.zip",
+			"updatedesp":"语言更新包下载",
+			"restart": 0,
+			"path": "{}\\locale.zip"
+		},{
+			"file": "locale.zip",
+			"md5": "d01c579ae0b99780b1ddfc670b1fcfc2",
+			"ver": "1.3",
+			"updatemode": 0,
+			"opera": "decompress",
+			"url":"http://qpy.quectel.com/qpytools/locale.zip",
+			"updatedesp":"语言更新包解压",
+			"restart": 0,
+			"path": "{}\\locale.zip"
+		},{
+			"file": "locale.zip",
+			"md5": "d01c579ae0b99780b1ddfc670b1fcfc2",
+			"ver": "1.3",
+			"updatemode": 0,
+			"opera": "delete",
+			"url":"http://qpy.quectel.com/qpytools/locale.zip",
+			"updatedesp":"语言更新包删除",
+			"restart": 0,
+			"path": "{}\\locale.zip"
+		},{
+			"file": "logs.zip",
+			"md5": "31f96694e781a934bd5939d732414b26",
+			"ver": "1.1.4",
+			"updatemode":0,
+			"opera": "download",
+			"url":"http://qpy.quectel.com/qpytools/logs.zip",
+			"updatedesp":"日志文件更新包下载",
+			"restart": 0,
+			"path": "{}\\logs.zip"
+		},{
+			"file": "logs.zip",
+			"md5": "31f96694e781a934bd5939d732414b26",
+			"ver": "1.1.4",
+			"updatemode": 0,
+			"opera": "decompress",
+			"url":"http://qpy.quectel.com/qpytools/logs.zip",
+			"updatedesp":"日志文件更新包解压",
+			"restart": 0,
+			"path": "{}\\logs.zip"
+		},{
+			"file": "logs.zip",
+			"md5": "31f96694e781a934bd5939d732414b26",
+			"ver": "1.1.4",
+			"updatemode": 0,
+			"opera": "delete",
+			"url":"http://qpy.quectel.com/qpytools/logs.zip",
+			"updatedesp":"日志文件更新包删除",
+			"restart": 0,
+			"path": "{}\\logs.zip"
+		},{
+			"file": "docs.zip",
+			"md5": "751d573492ee6554c1b37dfe0f4dae48",
+			"ver": "1.4",
+			"updatemode":0,
+			"opera": "download",
+			"url":"http://qpy.quectel.com/qpytools/docs.zip",
+			"updatedesp":"文件说明更新包下载",
+			"restart": 0,
+			"path": "{}\\docs.zip"
+		},{
+			"file": "docs.zip",
+			"md5": "751d573492ee6554c1b37dfe0f4dae48",
+			"ver": "1.4",
+			"updatemode": 0,
+			"opera": "decompress",
+			"url":"http://qpy.quectel.com/qpytools/docs.zip",
+			"updatedesp":"文件说明更新包解压",
+			"restart": 0,
+			"path": "{}\\docs.zip"
+		},{
+			"file": "docs.zip",
+			"md5": "751d573492ee6554c1b37dfe0f4dae48",
+			"ver": "1.4",
+			"updatemode": 0,
+			"opera": "delete",
+			"url":"http://qpy.quectel.com/qpytools/docs.zip",
+			"updatedesp":"文件说明更新包删除",
+			"restart": 0,
+			"path": "{}\\docs.zip"
+		},{
+			"file": "project.zip",
+			"md5": "f3ba9c0b5c657013c7045920f81ccfba",
+			"ver": "1.1.3",
+			"updatemode":0,
+			"opera": "download",
+			"url":"http://qpy.quectel.com/qpytools/project.zip",
+			"updatedesp":"项目文件更新包下载",
+			"restart": 0,
+			"path": "{}\\project.zip"
+		},{
+			"file": "project.zip",
+			"md5": "f3ba9c0b5c657013c7045920f81ccfba",
+			"ver": "1.1.3",
+			"updatemode": 0,
+			"opera": "decompress",
+			"url":"http://qpy.quectel.com/qpytools/project.zip",
+			"updatedesp":"项目文件更新包解压",
+			"restart": 0,
+			"path": "{}\\project.zip"
+		},{
+			"file": "project.zip",
+			"md5": "f3ba9c0b5c657013c7045920f81ccfba",
+			"ver": "1.1.3",
+			"updatemode": 0,
+			"opera": "delete",
+			"url":"http://qpy.quectel.com/qpytools/project.zip",
+			"updatedesp":"项目文件更新包删除",
+			"restart": 0,
+			"path": "{}\\project.zip"
+		},{
+			"file": "update_message.json",
+			"md5": "b108c19ce84b81e96ba810d72e380f92",
+			"ver": "1.4",
+			"updatemode": 0,
+			"opera": "override",
+			"url":"http://qpy.quectel.com/qpytools/update_message.json",
+			"updatedesp":"窗口提示文件",
+			"restart": 0,
+			"path": "{}\\update_message.json"
+		}
+	]
+}

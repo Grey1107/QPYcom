@@ -1,0 +1,605 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-11-04 11:03+0800\n"
+"PO-Revision-Date: 2021-01-21 16:24+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=cp936\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: wxglade_out.py:280 wxglade_out.py:381
+msgid "保存"
+msgstr "Save"
+
+#: wxglade_out.py:283
+msgid "退出"
+msgstr "Exit"
+
+#: wxglade_out.py:285
+msgid "文件 (&F)"
+msgstr "File (F)"
+
+#: wxglade_out.py:287
+msgid "交互命令行"
+msgstr "Interactive command line"
+
+#: wxglade_out.py:289
+msgid "文件浏览"
+msgstr "File browsing"
+
+#: wxglade_out.py:291
+msgid "下载固件/脚本"
+msgstr "FW/script download"
+
+#: wxglade_out.py:293
+msgid "软件设置"
+msgstr "Software setting"
+
+#: wxglade_out.py:297
+msgid "简体中文 (zh_CN)"
+msgstr "Chinese Simplified (zh_CN)"
+
+#: wxglade_out.py:304
+msgid "切换到..."
+msgstr "Switch to..."
+
+#: wxglade_out.py:306 wxglade_out.py:312
+msgid "日志另存为"
+msgstr "Save log"
+
+#: wxglade_out.py:308
+msgid "模块日志"
+msgstr "Module log"
+
+#: wxglade_out.py:310
+msgid "查看"
+msgstr "View"
+
+#: wxglade_out.py:314
+msgid "下载日志"
+msgstr "Download log"
+
+#: wxglade_out.py:315
+msgid "查看 (&V)"
+msgstr "View(&V）"
+
+#: wxglade_out.py:320
+msgid "在线Wiki"
+msgstr "Online wiki"
+
+#: wxglade_out.py:322
+msgid "在线教程"
+msgstr "Online tutorials"
+
+#: wxglade_out.py:324
+msgid "QQ开发交流群"
+msgstr "Online community"
+
+#: wxglade_out.py:327
+msgid "资料下载"
+msgstr "Data download"
+
+#: wxglade_out.py:329
+msgid "教程 (&E)"
+msgstr "Tutorials(&E)"
+
+#: wxglade_out.py:331
+msgid "检查升级"
+msgstr "Check update"
+
+#: wxglade_out.py:334
+msgid "关于 Quectel 移远"
+msgstr "About Quectel"
+
+#: wxglade_out.py:336
+msgid "关于 QuecPython"
+msgstr "About QuecPython"
+
+#: wxglade_out.py:338
+msgid "版本"
+msgstr "Version"
+
+#: wxglade_out.py:340
+msgid "帮助 (&H)"
+msgstr "Help(&H)"
+
+#: wxglade_out.py:349
+msgid "开始"
+msgstr "Start"
+
+#: wxglade_out.py:353
+msgid "暂停"
+msgstr "Pause"
+
+#: wxglade_out.py:357
+msgid "停止"
+msgstr "Stop"
+
+#: wxglade_out.py:361
+msgid "清除"
+msgstr "Clean"
+
+#: wxglade_out.py:367
+msgid "时间戳"
+msgstr "Timestamp"
+
+#: wxglade_out.py:371
+msgid "显示行号"
+msgstr "Display line numbers"
+
+#: wxglade_out.py:375
+msgid "格式"
+msgstr "Format"
+
+#: wxglade_out.py:385
+msgid "搜索"
+msgstr "Search"
+
+#: wxglade_out.py:391
+msgid "设置"
+msgstr "Settings"
+
+#: wxglade_out.py:395
+msgid "选择串口"
+msgstr "COM Port"
+
+#: wxglade_out.py:397
+msgid "波特率"
+msgstr "Baudrate"
+
+#: wxglade_out.py:402
+msgid "打开串口"
+msgstr "Open port"
+
+#: wxglade_out.py:437
+msgid "创建"
+msgstr "Create"
+
+#: wxglade_out.py:438
+msgid "删除"
+msgstr "Delete"
+
+#: wxglade_out.py:440
+msgid "选择固件"
+msgstr "Choose FW"
+
+#: wxglade_out.py:446
+msgid "加密"
+msgstr "Encryption"
+
+#: wxglade_out.py:449
+msgid "下载脚本"
+msgstr "Download script"
+
+#: wxglade_out.py:451
+msgid "合并"
+msgstr "Combine"
+
+#: wxglade_out.py:453
+msgid "自动保存模块日志"
+msgstr "Autosave module log"
+
+#: wxglade_out.py:454
+msgid "最大保存数目"
+msgstr "Maximum save number"
+
+#: wxglade_out.py:456
+msgid "最大占用上限(MB)"
+msgstr "Size limit(MB)"
+
+#: wxglade_out.py:458
+msgid "打开日志文件夹"
+msgstr "Open the log folder"
+
+#: wxglade_out.py:459
+msgid "源码编辑器"
+msgstr "Source Editor"
+
+#: wxglade_out.py:462
+msgid "启动参数"
+msgstr "Startup parameters"
+
+#: wxglade_out.py:464
+msgid "串口参数配置"
+msgstr "Serial port setup"
+
+#: wxglade_out.py:465
+msgid "校验位"
+msgstr "Check bit"
+
+#: wxglade_out.py:469
+msgid "数据位"
+msgstr "Data bits"
+
+#: wxglade_out.py:472
+msgid "停止位"
+msgstr "Stop bit"
+
+#: wxglade_out.py:475
+msgid "流控制"
+msgstr "Flow control"
+
+#: wxglade_out.py:479
+msgid "mpy-cross 路径"
+msgstr "mpy-cross path"
+
+#: wxglade_out.py:482
+msgid "手动修改配置文件"
+msgstr "Manually modify the configuration file"
+
+#: wxglade_out.py:483
+msgid "关闭工具并打开配置文件"
+msgstr "Close then edit configuration file"
+
+#: wxglade_out.py:484
+msgid "确定"
+msgstr "Apply"
+
+#: wxglade_out.py:485
+msgid "重置"
+msgstr "Reset"
+
+#: wxglade_out.py:486
+msgid "取消"
+msgstr "Cancel"
+
+#: wxglade_out.py:486
+msgid "官方网站"
+msgstr "Official Website"
+
+msgid "交互"
+msgstr "REPL"
+
+msgid "文件"
+msgstr "File"
+
+msgid "下载"
+msgstr "Download"
+
+msgid "请先打开串口"
+msgstr "Please open the serial port first"
+
+msgid "提示"
+msgstr "Prompt"
+
+msgid "正在执行其他操作，请稍后再试"
+msgstr "You are doing something else. Please try again later"
+
+msgid "文件读取失败，请确认是否有读取权限"
+msgstr "The file failed to read. Please confirm that you have read permission"
+
+msgid "不可拖动文件夹，仅可拖动单个文件."
+msgstr "Do not drag folders, only individual files can be dragged."
+
+msgid "源文件/文件夹不存在，请重试"
+msgstr "The source file/folder does not exist, please try again"
+
+msgid "错误的目标"
+msgstr "Wrong target"
+
+msgid "  欢迎使用 QuecPython"
+msgstr " Welcome to QuecPython"
+
+msgid " 当前状态: 就绪..."
+msgstr " Current status: ready..."
+
+msgid "文件名"
+msgstr "Filename"
+
+msgid "大小"
+msgstr "Filesize"
+
+msgid "类型"
+msgstr "Filetype"
+
+msgid "修改日期"
+msgstr "Modification date"
+
+msgid " 下载 "
+msgstr " Download "
+
+msgid " 项目 "
+msgstr " Project "
+
+msgid "固件: "
+msgstr "Firmware: "
+
+msgid "关闭串口"
+msgstr "Close Port"
+
+msgid "撤销"
+msgstr "Undo"
+
+msgid "恢复"
+msgstr "Restor"
+
+msgid "剪切"
+msgstr "Cut"
+
+msgid "复制"
+msgstr "Copy"
+
+msgid "粘贴"
+msgstr "Paste"
+
+msgid "全部选择"
+msgstr "Select all"
+
+msgid "【显示打印时间】模式，不可输入"
+msgstr "[Display print time] mode, not inputable"
+
+msgid "未检测到串口"
+msgstr "No serial port detected"
+
+msgid "错误"
+msgstr "Error"
+
+msgid "串口打开失败"
+msgstr "Serial port opening failed"
+
+msgid "工具当前版本"
+msgstr "Current version of tool"
+
+msgid "工具版本"
+msgstr "Version of tool"
+
+msgid "Python 代码运行输出中，无法刷新目录"
+msgstr "The Python code runs out of output and the directory cannot be refreshed"
+
+msgid "错误的文件选择，请重试"
+msgstr "Wrong file selection, please try again"
+
+msgid "请选择 python(.py) 文件运行"
+msgstr "Select the Python (.py) file to run"
+
+msgid "开始下载"
+msgstr "Start download"
+
+msgid "语言已切换，请重启程序"
+msgstr "The language has been switched, please restart the program"
+
+msgid "下载固件"
+msgstr "Download FW"
+
+msgid "下载固件+脚本"
+msgstr "Download FW + script"
+
+msgid "项目名称"
+msgstr "Project name"
+
+msgid "输入项目名称:"
+msgstr "Enter the project name:"
+
+msgid "打开文件"
+msgstr "Open File"
+
+msgid "请先创建或者选择一个项目"
+msgstr "Please create or select project"
+
+msgid "请先选择文件"
+msgstr "Please add file"
+
+msgid "文件已存在，请再选一个"
+msgstr "The file already exists, please select another one"
+
+msgid "选择小于5MB的文件"
+msgstr "Select a file less than 5MB"
+
+msgid "请选择固件"
+msgstr "Please select FW"
+
+msgid "试图使用未打开的端口。请再试一次。注意FW已经下载"
+msgstr "Attempting to use a port that is not open. Please try again.\n"
+"Note that FW is already downloaded"
+
+msgid "保存文件"
+msgstr "Save files"
+
+msgid "打开AT串口失败"
+msgstr "Failed to open AT port"
+
+msgid "固件+脚本下载结束"
+msgstr "FW + script downloading finished"
+
+msgid "固件下载结束"
+msgstr "FW downloading finished"
+
+msgid "选择"
+msgstr "Select"
+
+msgid "路径"
+msgstr "Path"
+
+msgid "大小 [KB]"
+msgstr "Size [KB]"
+
+msgid "下载过程中请勿退出软件"
+msgstr "Do not exit the software during downloading"
+
+msgid "文件不存在"
+msgstr "File does not exist"
+
+msgid "语法错误"
+msgstr "syntax error"
+
+msgid "语言"
+msgstr "Language"
+
+msgid "固件不存在"
+msgstr "Firmware does not exist"
+
+msgid "工具当前版本:   V"
+msgstr "Current version of tool: V"
+
+msgid "请勿重复启动程序"
+msgstr "Do not start the program repeatedly"
+
+msgid "请选择正确的文件夹"
+msgstr "Please select the correct folder"
+
+msgid "下载固件失败，请检查模块和固件包"
+msgstr "Download firmware failed, please check module and firmware package"
+
+msgid "合并处理完成"
+msgstr "combine processing completed"
+
+msgid "合并处理失败"
+msgstr "combine processing failed"
+
+msgid "已存在，请勿重复选择"
+msgstr "Existing, do not repeat the selection"
+
+msgid "项目名称不可为空"
+msgstr "The project name cannot be empty"
+
+msgid "同名项目已存在"
+msgstr "The project of the same name already exists"
+
+msgid "开启模块命令行交互"
+msgstr "Open the module command-line interactions"
+
+msgid "暂停模块命令行交互"
+msgstr "Pause module command line interactions"
+
+msgid "停止模块命令行交互"
+msgstr "Stop module command line interaction"
+
+msgid "屏幕打印清除"
+msgstr "Clear screen print"
+
+msgid "显示打印时间"
+msgstr "Display print time"
+
+msgid "行号显示"
+msgstr "The line number display"
+
+msgid "交互页面主题切换"
+msgstr "REPL page theme switch"
+
+msgid "日志保存"
+msgstr "The log saved"
+
+msgid "日志关键字搜索"
+msgstr "Log keyword search"
+
+msgid "工具箱"
+msgstr "The toolkit"
+
+msgid "使用指导"
+msgstr "application guide"
+
+msgid "版本信息"
+msgstr "changelog"
+
+msgid "语法错误，无法加密"
+msgstr "The syntax is wrong and cannot be encrypted"
+
+msgid "下载固件中请勿退出软件"
+msgstr "Download the firmware and do not exit the software"
+
+msgid "模块文件列表刷新中"
+msgstr "The module file list is refreshing"
+
+msgid "合并处理中"
+msgstr "downloadFileCombine in process"
+
+msgid "备份"
+msgstr "Backup"
+
+msgid "请确认固件包版本与模块版本是否一致"
+msgstr "Please confirm whether the firmware package version is consistent with the module version"
+
+msgid "请确认固件包与模块型号一致"
+msgstr "Please confirm that the firmware package is consistent with the module model"
+
+msgid "选择文件夹"
+msgstr "Select folder"
+
+msgid "请确认main.py中项目信息是否完整"
+msgstr "Make sure that the project information in main.py is complete"
+
+msgid "请确认合并的文件中是否包含main.py"
+msgstr "Make sure that the merged file contains main.py"
+
+msgid "下载结束"
+msgstr "Download the end"
+
+msgid "下载进度: "
+msgstr "Download Progress: "
+
+msgid "请勿重复插入模块"
+msgstr "Do not insert the module repeatedly"
+
+msgid "配置工具箱命令"
+msgstr "Add quickCMD"
+
+msgid "名称:"
+msgstr "Name:"
+
+msgid "命令:"
+msgstr "Command:"
+
+msgid "关闭"
+msgstr "Close"
+
+msgid "新增"
+msgstr "Add"
+
+msgid "命令长度不可超过15个字符！"
+msgstr "Command name should not be longer than 15 characters!"
+
+msgid "未查询到指定结果"
+msgstr "No search results for given query!"
+
+msgid "内置命令的最大限制是16!"
+msgstr "Max limit of built-in commands is 16!"
+
+msgid "USB串行设备在下载固件时失去连接!"
+msgstr "USB Serial Device has lost connection while flashing firmware!"
+
+msgid "当前状态：检测模块..."
+msgstr "Current status: checking..."
+
+msgid "USB串行设备在下载脚本时失去连接!"
+msgstr "USB Serial Device has lost connection while downloading scripts!"
+
+msgid "USB串行设备失去连接!"
+msgstr "USB Serial Device has lost connection!"
+
+msgid "当前固件版本非Python版本!"
+msgstr "Python version is not detected on the module!"
+
+msgid "命令名称过长！"
+msgstr "Command name too long!"
+
+msgid "空间不足！可用空间 "
+msgstr "Insufficient space! Space available"
+
+
+msgid "配置文件不可删除! "
+msgstr "Configuration files cannot be deleted!"
+
+
+msgid "main.py 正在运行中"
+msgstr "main.py is running on the module!"
+
+msgid "未查询到匹配值!"
+msgstr "No matches found for entered query!"
+
+msgid "字体设置"
+msgstr "Font"
+
+msgid "交互页面字体设置"
+msgstr "REPL Font"
+
+msgid "窗口置顶"
+msgstr "Topmost"

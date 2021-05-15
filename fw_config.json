@@ -1,0 +1,53 @@
+{
+	"firmware":
+		{
+			"pack_dir"					: "mount",
+			"mpy_dir"					: "mpy",
+			"backup_dir"				: "backup",
+			"block_size"				: "4096",
+			"read_size"					: "4096",
+			"progress_size"				: "4096",
+			"filesystem_size"			: "5242880",
+			"filesystem_backup_size"	: "204800",
+			"cnlb_filesystem_size"		: "385024",
+			"cnlb_filesystem_backup_size": "102400",
+			"image_file_path"			: "fw/images/customer_fs.bin",
+			"image_file_backup_path"	: "fw/images/customer_backup_fs.bin",
+			"file_size"					: "5MB",
+			"file_backup_size"			: "3MB",
+			"vid_pid_work"				: {"EC600SCNAA":"2C7C:6001",
+										   "EC600SCNLB":"2C7C:6002",
+										   "EC600UCNLB":"2C7C:0901"
+										  },
+			"vid_pid_dwload"			: {"EC600SCNAA":"2ECC:3017",
+										   "EC600SCNLB":"2ECC:3004",
+										   "EC600UCNLB":"0525:A4A7"
+										   },
+			"Quectel_USB_DIAG_Port"		: "x.2",
+			"Quectel_USB_AT_Port"		: "x.3",
+			"USB_Serial_Device"			: "x.5",
+			"Quectel_Download_Port"		: "2ECC:3017"
+
+		},
+	"sim_status":
+		{
+			"Remove"					: "SIM status: Removed",
+			"Ready"						: "SIM status: Ready",
+			"Locked"					: "SIM status: Locked"
+		},
+	"dailing_status":
+		{
+			"Not_Connected"				: "Dailing status: Not connected",
+			"Connected"					: "Dailing status: Connected",
+			"Error"						: "Dailing status: Error"
+		},
+	"net_status":
+		{
+			"Not_Registered"			: "Network registration status: Not registered",
+			"Registered"				: "Network registration status: Registered",
+			"Registered_Denied"			: "Network registration status: Registration denied",
+			"Unknown"					: "Network registration status: Unknown",
+			"Registration_Limited"      : "Network registration status: Registration limited",
+			"Error"                     : "Network registration status: Error"
+		}
+}
